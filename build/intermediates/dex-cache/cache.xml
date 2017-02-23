@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_e23de9569f9f945c6e9149eb15eff3059253ce73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_81f94d6592ad58adb277a30a4f1205726b62c597\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6b4dbacb3f03fad1887accdf8db5dfae758d2d4">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1acaeedb8371648f75a5f20813ecb87cee2e40fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_56153a013e882ec026f1fd984d496c6bc29c04d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_cf8375fa82527389fad52277a5ff47500a5d0922\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_262152f16dbd9f7c92d6852c590d2be35d45f62e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_258463dd3b2a3417d228dd8cbea0bf2a72deefd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_a6a6438e3139055f4b6bdcbab840f02a28ecdf1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_eb4a17bac52ce1cb9fcd000faeb98fa12d2e8b3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="773256f59c5798ad5e04a69d2785ac9355e55a28">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_15a9e3da550f7c6702061aaf0c4bf1c11391f4f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_eb84b6d19d20f5f64f8ed6fd58f333cfcb04fa17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_0baba0a2c39c19d59aaab20262b0ed7de8b5d2de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_d9706fafa9278416b84dc2d272fcd1db313ad4a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_8d3c83ac6cd3dc7bc88ae661c0c688344ae568c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\rohan\AndroidStudioProjects\Text-To-SpeechBasic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_e047344c648dc16066b6e1c53e9f394741fcb5fc\classes.dex" />
+    </item>
+
+</items>
